@@ -1,0 +1,46 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+}
+
+.App {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+button {
+    margin: 10px 0;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+input, select {
+    margin-bottom: 10px;
+}
+
+.leaderboard-container {
+    margin-top: 20px;
+}
+
+.leaderboard-container h2 {
+    text-align: center;
+}
+
+.list-group {
+    margin-bottom: 20px;
+}
+
+.logo-margin-right {
+    margin-right: 10px;
+  }
