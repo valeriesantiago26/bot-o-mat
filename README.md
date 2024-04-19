@@ -6,7 +6,7 @@ I created a React App for this coding assessment.
 
 ### How to install & run Bot-O-Mat:
 
-1. You need to install Node (if it's not install already): https://nodejs.org/en/download/ . 
+1. You need to install Node (if it's not installed already): https://nodejs.org/en/download/. 
 2. You can clone or download the repository onto your local machine.
 3. Change the directory to:  `$ cd bot-o-mat`
 4. Use `$ npm install` to install all the required dependencies. 
